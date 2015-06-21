@@ -1,0 +1,10 @@
+-- bcp_demo
+#noedit
+#system win32
+#model clarion dll
+#pragma debug(vid=>full)
+#pragma optimize(cpu=>386)
+#compile "bcp_demo.clw"
+#pragma link("sqlncl10.lib")
+#pragma link("c_bcp.lib")
+#link "bcp_demo.exe"
