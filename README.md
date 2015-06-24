@@ -12,4 +12,4 @@ real,
 dateTime,
 time(n)
 
-there wil some additional ones added in a few days
+there will be some additional ones added in a few days
