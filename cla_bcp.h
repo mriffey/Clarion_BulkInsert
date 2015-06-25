@@ -9,8 +9,7 @@
 
 #define _SQLNCLI_ODBC_
 
-#include "D:\Version 3\Data Access Layer\TRC - Main\TRC.EcoEngine\EcoDataLayer\EcoDataLayer\sqlncli.h"			
-//#include <sqlncli.h>
+#include "sqlncli.h"			
 
 #define DllExport   __declspec( dllexport )
 
