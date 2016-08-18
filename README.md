@@ -12,4 +12,9 @@ real,
 dateTime,
 time(n)
 
-there will be some additional ones added in a few days
+feel free to send any questions or comments to me,
+
+I pretty much stoped working on this due to lack of interet in the community. 
+
+I am willing to add code, make it better, ... if there is some interest.   just let me know
+
